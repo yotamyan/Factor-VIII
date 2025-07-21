@@ -39,8 +39,3 @@ In my master's research, I am attempting to genetically engineer **blood-derived
 - (optional) `streamlit` — interactive user interface
 
 ---
-
-## 📈 Example Use Case
-
-```bash
-python gene_network_explorer.py --data liver_endothelial.csv --target_gene F8
